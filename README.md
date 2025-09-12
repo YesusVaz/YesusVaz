@@ -1,3 +1,5 @@
+<h1 align="left">hey there 👋</h1>
+
 <div align="left">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -12,7 +14,6 @@
 
 ###
 
-<h1 align="left">hey there 👋</h1>
 
 ###
 

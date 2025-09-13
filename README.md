@@ -13,7 +13,6 @@
 
 
 <h1 align="left">hey there 👋</h1>
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 

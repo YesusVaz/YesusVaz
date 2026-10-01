@@ -1,6 +1,6 @@
 <!-- HEADER COM EFEITO ONDA -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,18,30&height=220&section=header&text=Yesus%20Lucas%20Vaz&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,18,30&height=220&section=header&text=Yesus%20Vaz&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
   <!-- EFEITO DE DIGITAÇÃO ANIMADO -->
   <a href="https://git.io/typing-svg">
@@ -39,13 +39,6 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YesusVaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YesusVaz&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 <br/>
 
